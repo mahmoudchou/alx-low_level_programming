@@ -5,7 +5,13 @@
 #include <stdio.h>
 
 
-/* betty style doc for function main goes there */
+/**
+ * betty style doc for function main goes there
+ *
+ * main - determine if n is positive, negative or zero
+ *
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 
