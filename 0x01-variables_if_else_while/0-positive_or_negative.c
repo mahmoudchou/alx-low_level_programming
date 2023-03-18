@@ -6,9 +6,7 @@
 
 
 /**
- * betty style doc for function main goes there
- *
- * main - determine if n is positive, negative or zero
+ * main - Determine if a number is positive, negative or zero
  *
  * Return: Always 0 (Success)
  */
